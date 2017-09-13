@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legbiter.Web", "Legbiter.Web\Legbiter.Web.csproj", "{1929D84A-13F6-453D-A1C0-3DB7430BF983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legbiter.Services", "Legbiter.Services\Legbiter.Services.csproj", "{C2BD89D9-CE85-4E90-9FB6-E71CE7F38793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legbiter.Core", "Legbiter.Core\Legbiter.Core.csproj", "{F4789FD3-14B6-46A1-AA91-89DCC0512A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1929D84A-13F6-453D-A1C0-3DB7430BF983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1929D84A-13F6-453D-A1C0-3DB7430BF983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1929D84A-13F6-453D-A1C0-3DB7430BF983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1929D84A-13F6-453D-A1C0-3DB7430BF983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BD89D9-CE85-4E90-9FB6-E71CE7F38793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BD89D9-CE85-4E90-9FB6-E71CE7F38793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BD89D9-CE85-4E90-9FB6-E71CE7F38793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BD89D9-CE85-4E90-9FB6-E71CE7F38793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4789FD3-14B6-46A1-AA91-89DCC0512A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4789FD3-14B6-46A1-AA91-89DCC0512A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4789FD3-14B6-46A1-AA91-89DCC0512A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4789FD3-14B6-46A1-AA91-89DCC0512A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
